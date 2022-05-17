@@ -34,4 +34,4 @@ I think overall, I need to improve my skills on event handling, and how to work 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/iliassel19)
+- Frontend Mentor - [@iliassel19](https://www.frontendmentor.io/profile/iliassel19)
