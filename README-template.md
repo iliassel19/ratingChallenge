@@ -4,8 +4,8 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+[Solution URL](https://github.com/iliassel19/ratingChallenge.git)
+[Live Site URL](https://628402c214761e0833fe2de8--magnificent-stroopwafel-6673d1.netlify.app/)
 
 ## My process
 
@@ -34,5 +34,4 @@ I think overall, I need to improve my skills on event handling, and how to work 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/iliassel19)
